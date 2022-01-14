@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technoloy at University of Rwanda.
-- 💼 &nbsp; Working as an IT Manager at East Africa Corporate Reservations.
+- 💼 &nbsp; Working as an Full Stack Developer at Zatec Rw.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Software Testing.
 - ✍️ &nbsp; Pursuing Software Engineering and Blog Writing as hobbies/side hustles.
 
