@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Information Technoloy at University of Rwanda.
+- 🎓 &nbsp; Pursuing a Master's in Information Technology with a focus on Cyber Security and Software Development
 <!-- - 💼 &nbsp; Working as Full Stack Developer at Zatec Rw. -->
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Software Testing.
 - ✍️ &nbsp; Pursuing Software Engineering and Blog Writing as hobbies/side hustles.
