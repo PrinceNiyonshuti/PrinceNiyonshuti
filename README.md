@@ -64,6 +64,5 @@
 <p align="center">
 <a href="https://princeniyonshuti.github.io./"><img alt="Website" src="https://img.shields.io/badge/Website-www.princeniyonshuti.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/niyonshuti-prince-3a510b159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Niyonshuti Prince-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/prince_np_47/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-prince_np_47-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:npprince47@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-npprince47@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
